@@ -2,4 +2,4 @@
 Projeto prático de versionamento Git
 <br/>
 ### Para versionar seus projetos instale o Git <br/>
-[Link para baixar o Git](https://git-scm.com/downloads)
+[Link para baixar o Git](https://git-scm.com/downloads) :arrow_down:
