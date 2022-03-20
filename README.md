@@ -1,4 +1,4 @@
-# Projeto-git-github-DIO :page_with_curl:
+# Comandos-do-Git- :page_with_curl:
 Projeto prático de versionamento *git*
 <br/>
 ### Para versionar seus projetos instale o *git* <br/>
